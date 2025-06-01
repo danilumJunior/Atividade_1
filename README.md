@@ -76,6 +76,14 @@ O projeto possui uma estrutura de pastas simples, facilitando a localização do
 
 ---
 
+## 🌐 Visualizar o Projeto Online (GitHub Pages)
+
+Você pode acessar uma demonstração ao vivo deste projeto diretamente no seu navegador, hospedada pelo GitHub Pages:
+
+🔗 [Acessar Demonstração Online](https://danilumjunior.github.io/Atividade_1)
+
+---
+
 ## 🤝 Contribuição
 
 Como este é um projeto feito para uma **atividade acadêmica**, não há planos para receber contribuições externas. No entanto, qualquer feedback ou sugestão para aprendizado é muito bem-vinda.
